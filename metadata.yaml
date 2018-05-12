@@ -1,0 +1,30 @@
+_repo: Menticultureor-the-A-B-C-of-True-Living_45040
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45040-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fletcher, Horace
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '43027'
+    url: http://www.gutenberg.org/2009/agents/43027
+    wikipedia: https://en.wikipedia.org/wiki/Horace_Fletcher
+description: ''
+gutenberg_issued: '2014-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45040'
+  lccn: '11034604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Conduct of life'
+- !lcsh 'Worry'
+- !lcsh 'Anger'
+title: Menticulture; or, the A-B-C of True Living
+url: http://www.gutenberg.org/ebooks/45040
